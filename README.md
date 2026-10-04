@@ -51,3 +51,4 @@ Visual AI prompting and mobile app wireframe architecture for AT Food Co. using 
 
 * **Pros:** Translates product ideas into tangible UI wireframes in seconds, saving hours of manual Figma sketching.
 * **Limitations:** Generates wireframe layouts only; interactive backend logic and dynamic database connections must be wired in Softr, Framer, or Airtable.
+*  **Prototype App:** https://app.uizard.io/p/3d67231e
